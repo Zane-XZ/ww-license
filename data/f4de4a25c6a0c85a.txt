@@ -1,6 +1,6 @@
 {
   "fingerprint": "da16b33ab3964e19a98d3c0a2f6ae7d6",
-  "signature": "4s2Flhg4+qBVHzsFp1RB841c69lSbGSZARTbx3T6XSBEE6zXlrdJxh0kou/2ocgHMNxZM7zNiQQRl6C3p3b9Cg==",
-  "issuedAt": "2026-11-22T23:57:24.622+08:00",
-  "expiresAt": "2036-09-30T15:57:24.622Z"
+  "signature": "8wYyiBLqYEg4cpK3bUNR0CIwbJzV54INKjaXU2Jn7JNuoFjeYrdkQU4Jn/u1JQ/8rw9GFRdPyI8Rnvu7YjgLBw==",
+  "issuedAt": "2026-11-23T00:03:37.063+08:00",
+  "expiresAt": "2036-09-30T16:03:37.063Z"
 }
