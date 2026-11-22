@@ -1,5 +1,5 @@
 {
   "fingerprint": "97763838-66bb-4a0b-9fe0-92ae2f84dac2",
-  "signature": "tnYrAcMNglAbZD44BQDL1I3RvOhT5IP9dYNlk4f3kVvKuSLy8HrAVBt5OYAbEI3Qnlw/dNV/4Idrcenaevo+Bg==",
-  "issuedAt": "2026-06-23T16:00:02.160Z"
+  "signature": "UlzFie/ZFm0qmRlpJWD7dz5OdJ8CD4DRRG/f5akTXKF+5eI0oag6LS17LzutZIK01ID3N5RmEcwHBcT9LmqhCA==",
+  "issuedAt": "2026-11-22T22:00:00.397+08:00"
 }
