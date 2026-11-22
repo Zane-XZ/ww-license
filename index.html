@@ -98,9 +98,10 @@ const licenseText = document.getElementById('licenseText')
 const copyBtn = document.getElementById('copyBtn')
 const savePath = document.getElementById('savePath')
 
-// 从 URL 读取指纹
+// 从 URL 读取指纹（兼容 ?fp= 与 #fp=）
 const urlParams = new URLSearchParams(location.search)
-const fpFromUrl = urlParams.get('fp')
+const hashParams = new URLSearchParams(location.hash.slice(1))
+const fpFromUrl = urlParams.get('fp') || hashParams.get('fp')
 if (fpFromUrl) {
   fpInput.value = fpFromUrl
   fpDisplay.textContent = fpFromUrl
