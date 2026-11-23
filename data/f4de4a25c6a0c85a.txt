@@ -1,5 +1,5 @@
 {
   "fingerprint": "da16b33ab3964e19a98d3c0a2f6ae7d6",
   "signature": "24dv0upsLpuaeQLtM9VPC5qpMBi0tvTvzW3XBjPzMw9MJ+AQpeoNNErZONyWvQz7IT9GdnDg3Uk7lYl4RlvxDQ==",
-  "issuedAt": "2026-11-23T20:13:34.338+08:00"
+  "issuedAt": "2026-11-23T20:38:40.692+08:00"
 }
